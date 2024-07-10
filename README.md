@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello, I'm Jakhongir Ishmukhamedov 👋
 
-<!--
-**jahongirishmuhamedov/jahongirishmuhamedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently working with React, and TypeScript.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Bootstrap, Material UI
+- **Tools:** Git, GitHub, Gitlab, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me around the web:
+- **[LinkedIn](https://www.linkedin.com/in/jakhongir-ishmukhamedov/)**
+- **[Twitter](https://twitter.com/ishmukhamedov_j)**
+
